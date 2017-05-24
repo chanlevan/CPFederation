@@ -1,0 +1,7 @@
+rate=1.0
+frequency=1.0
+duration=90m
+queryDuplicates=1
+startDate=2014-08-11T11:00:00
+endDate=2014-08-31T11:00:00
+engine=cqels
